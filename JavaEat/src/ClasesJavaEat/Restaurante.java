@@ -5,7 +5,6 @@ package ClasesJavaEat;
 //IMPORTES
 import java.io.Serializable;
 import java.util.ArrayList;
-import ClasesJavaEat.Comida;
 
 /**
  * -Clase encargada de almacenar todos los datos de un restaurante.
