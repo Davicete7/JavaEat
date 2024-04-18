@@ -1,0 +1,53 @@
+@options
+@packages
+-classpath
+'C:/Users/David Sanchez/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE160/AbsoluteLayout-RELEASE160.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/David Sanchez/OneDrive/Escritorio/UNI/1ºCURSO/SEMESTRE_2(GISI)/Programacion/Lab/JavaEat/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/David Sanchez/OneDrive/Escritorio/UNI/1ºCURSO/SEMESTRE_2(GISI)/Programacion/Lab/JavaEat/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JavaEat 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JavaEat 1.0-SNAPSHOT API'
+ClasesJavaEat
+InterfazJavaEat
+C:\Users\David Sanchez\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE160\AbsoluteLayout-RELEASE160.jar = 1684959245732
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\src\main\java = 1685456916765
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\allclasses-index.html = 1685457884182
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\allpackages-index.html = 1685457884185
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\constant-values.html = 1685457883947
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\copy.svg = 1685457884229
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\element-list = 1685457883897
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\help-doc.html = 1685457884226
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\index-all.html = 1685457884213
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\index.html = 1685457884150
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\javadoc.bat = 1685457767962
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\jquery-ui.overrides.css = 1685457884237
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\member-search-index.js = 1685457884190
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\module-search-index.js = 1685457884186
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\overview-summary.html = 1685457884219
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\overview-tree.html = 1685457884142
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\package-search-index.js = 1685457884188
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\script.js = 1685457884229
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\search-page.js = 1685457884233
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\search.html = 1685457884216
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\search.js = 1685457884232
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\serialized-form.html = 1685457884019
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\stylesheet.css = 1685457884228
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\tag-search-index.js = 1685457884190
+C:\Users\David Sanchez\OneDrive\Escritorio\UNI\1ºCURSO\SEMESTRE_2(GISI)\Programacion\Lab\JavaEat\target\site\apidocs\type-search-index.js = 1685457884189
